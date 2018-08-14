@@ -2,7 +2,7 @@
 
 // Reset de estilos
 @import "com/general/normalize.scss";
-@import "com/general/reset_estilos.scss";
+// @import "com/general/reset_estilos.scss";
 
 // Estilos Externos (p.ej. liberias externas) - (!)
 
@@ -10,11 +10,12 @@
 @import "com/general/fuentes.scss";
 
 // Estilos Internos
+@import "com/general/sprites.scss";
 @import "com/general/utilidades.scss";
 @import "generals.scss";
 @import "home/home.scss";
 
-// Mediaqueries
+
 
 
 
