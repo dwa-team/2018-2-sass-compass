@@ -50,3 +50,9 @@ main.mainContainer {
     max-width: 600px;
 }
 /* ----------------------------------*/
+
+.showAllBorders {
+    div {
+        border:1px solid white;
+    }
+}
